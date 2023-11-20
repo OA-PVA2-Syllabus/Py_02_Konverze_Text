@@ -13,6 +13,7 @@
 8. Escapování znaků
 9. Metody
 10. Formátování literálu (Fstrings)
+11. Binární operace
 
 ## Souhrn
 1. Datové typy - `datoveTypy.py`
