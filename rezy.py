@@ -5,6 +5,9 @@
 
 monty_python = "Monty Python"
 # Jeden nebo oba indexy mohou být vypuštěny. monty_python[:5] se rovná monty_python[0:5].monty = monty_python[:5]
+# Deklarujte proměnnou monty, která bude mít hodnotu určenou podle řezu a vracet výraz Monty
 print(monty)
+
+# Vraťte slovo Python pomocí řezů
 python = ???
 print(python)
